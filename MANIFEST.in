@@ -1,0 +1,7 @@
+include LICENSE
+include README.md
+include README.md.txt
+recursive-include waha_python *.py
+global-exclude *.pyc
+global-exclude __pycache__
+
