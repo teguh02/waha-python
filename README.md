@@ -6,6 +6,8 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![WAHA](https://img.shields.io/badge/WAHA-2025.9-orange.svg)](https://waha.devlike.pro)
+[![PyPI version](https://badge.fury.io/py/waha-python.svg)](https://badge.fury.io/py/waha-python)
+[![Downloads](https://pepy.tech/badge/waha-python)](https://pepy.tech/project/waha-python)
 
 ## Features
 
@@ -554,6 +556,7 @@ MIT License - see LICENSE file for details
 
 ## Support
 
+- PyPI Package: [https://pypi.org/project/waha-python/](https://pypi.org/project/waha-python/)
 - GitHub Issues: [https://github.com/teguh02/waha-python/issues](https://github.com/teguh02/waha-python/issues)
 - WAHA Documentation: [https://waha.devlike.pro](https://waha.devlike.pro)
 
